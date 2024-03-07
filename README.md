@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practising the Github Flow.
+This repository is for practising the GitHub Flow.
+This is the "feature" branch.
